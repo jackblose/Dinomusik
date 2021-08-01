@@ -13,14 +13,13 @@ class Messages():
       HELP_MSG = [
         ".",
 f"""
-**Hy lagi kamu bertemu lagi dengan saya {PROJECT_NAME}
+**Hai kamu bertemu lagi dengan saya {PROJECT_NAME}
 
 ⚪️ {PROJECT_NAME} bisa memutar musik baik itu di VC Group atau VC Channel
 
 ⚪️ Nama Asisten >> @{ASSISTANT_NAME}\n\nKlik tombol dibawah untuk melihat intruksi lain**
 ◎› Owner Bot >> @{OWNER_USERNAME}
-◎› Owner Project >> @ZendYNS
-""",
+◎› Owner Project >> @enjoyyourmilk
 
 f"""
 **Pengaturan Utama**
@@ -99,8 +98,8 @@ f"""
  • /pmpermit [on/off] - enable/disable pesan pmpermit 
 __Pengguna Sudo dapat menjalankan perintah apa pun di grup mana pun__
 
-◎› Owner Project: [Yunus Zend](https://t.me/ZendYNS)
-◎› Source Code: [Click Here](https://github.com/Yunus-ZEND/VC-MusicINDO)
+◎› Owner Project: [Waly](https://t.me/enjoyyourmilk)
+◎› Follow Me On Instagram: [Click Here](https://www.instagram.com/muhammadwaly_)
 
 """
       ]
